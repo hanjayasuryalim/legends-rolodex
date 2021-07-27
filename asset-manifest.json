@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/legends-rolodex/static/css/main.04ab39ee.chunk.css",
+    "main.js": "/legends-rolodex/static/js/main.4d6fe52e.chunk.js",
+    "main.js.map": "/legends-rolodex/static/js/main.4d6fe52e.chunk.js.map",
+    "runtime-main.js": "/legends-rolodex/static/js/runtime-main.e31124de.js",
+    "runtime-main.js.map": "/legends-rolodex/static/js/runtime-main.e31124de.js.map",
+    "static/js/2.72cbcc59.chunk.js": "/legends-rolodex/static/js/2.72cbcc59.chunk.js",
+    "static/js/2.72cbcc59.chunk.js.map": "/legends-rolodex/static/js/2.72cbcc59.chunk.js.map",
+    "static/js/3.e09558a6.chunk.js": "/legends-rolodex/static/js/3.e09558a6.chunk.js",
+    "static/js/3.e09558a6.chunk.js.map": "/legends-rolodex/static/js/3.e09558a6.chunk.js.map",
+    "index.html": "/legends-rolodex/index.html",
+    "static/css/main.04ab39ee.chunk.css.map": "/legends-rolodex/static/css/main.04ab39ee.chunk.css.map",
+    "static/js/2.72cbcc59.chunk.js.LICENSE.txt": "/legends-rolodex/static/js/2.72cbcc59.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e31124de.js",
+    "static/js/2.72cbcc59.chunk.js",
+    "static/css/main.04ab39ee.chunk.css",
+    "static/js/main.4d6fe52e.chunk.js"
+  ]
+}
